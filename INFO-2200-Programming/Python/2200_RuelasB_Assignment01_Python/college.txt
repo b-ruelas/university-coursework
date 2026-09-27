@@ -1,0 +1,42 @@
+College,City
+Utah Valley University,Orem
+Brigham Young University,Provo
+The University of Utah,Salt Lake City
+Utah State University,Logan
+Weber State University,Ogden
+Salt Lake Community College,Salt Lake City
+Stanford University,Stanford
+University of California Berkeley,Berkeley
+University of California Los Angeles,Los Angeles
+University of Southern California,Los Angeles
+California State University Los Angeles,Los Angeles
+San Diego State University,San Diego
+University of California San Diego,San Diego
+Arizona State University,Tempe
+University of Arizona,Tucson
+Northern Arizona University,Flagstaff
+University of Nevada Las Vegas,Las Vegas
+University of Nevada Reno,Reno
+University of Colorado Boulder,Boulder
+Colorado State University,Fort Collins
+University of Texas at Austin,Austin
+Texas A&M University,College Station
+University of Houston,Houston
+Rice University,Houston
+University of Florida,Gainesville
+Florida State University,Tallahassee
+University of Miami,Coral Gables
+Georgia Institute of Technology,Atlanta
+University of Georgia,Athens
+Emory University,Atlanta
+Harvard University,Cambridge
+Massachusetts Institute of Technology,Cambridge
+Boston University,Boston
+Northeastern University,Boston
+New York University,New York
+Columbia University,New York
+City University of New York,New York
+University of Washington,Seattle
+Washington State University,Pullman
+Oregon State University,Corvallis
+University of Oregon,Eugene

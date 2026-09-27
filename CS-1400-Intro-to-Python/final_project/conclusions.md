@@ -1,0 +1,9 @@
+To test if what Bill Clinton said in 2012 about job growth held up. He stated that between 1961 and 2012, America added 66 million private-sector positions - 42 million during Democratic leadership, yet only 24 million under Republicans. Instead of just accepting it, I dug into numbers from the Bureau of Labor Statistics. Each year’s data got linked to whoever sat in the White House at the time. The idea wasn’t to support a side but simply see where the figures led.
+To pull this off, I grabbed info from BLS_private.csv - monthly private job stats running nonstop from '61 to '12. The presidents.csv file tagged each leader's political side, so yearly figures got sorted under either Red or Blue buckets. For every twelve-month stretch, my script crunched the employment digits into one annual chunk. That sum then fed into whichever team sat in the White House at the time. Every single number traces back straight to official BLS records, just like the rules said.
+The outcome from my project gave these numbers:
+
+Democratic presidents: nearly 23.3 million jobs created during their terms
+Republican leaders added 28.6 million positions while in office
+
+These figures aren't even close to what Clinton said. My math shows Dems created roughly 23.3 million private jobs - way below his 42 million. So yeah, the actual job growth doesn't line up with Clinton's numbers at all.
+Looking at the numbers, I found Clinton's comment didn't line up with reality. Instead of more jobs under Democrats, the BLS records show fewer - while Republicans had more than he said. These results come straight from labor stats, nothing else. Party labels came from my own presidential list, paired with official job figures.
